@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-This is a ReadMe n
-======
+This is a file for shell_redirections
